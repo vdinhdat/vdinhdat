@@ -1,4 +1,6 @@
-# Hello, I'm dinhdat 👋
+![Typing](https://readme-typing-svg.herokuapp.com/?color=00F7FF\&size=26\&center=true\&vCenter=true\&width=600\&lines=Web3+Node+Operator;Airdrop+Hunter;Exploring+Blockchain)
+
+# Hello, I'm DinhDat 👋
 
 ### 🚀 Web3 Node Operator
 
@@ -22,6 +24,12 @@
 
 * Telegram: https://t.me/dinhdat
 * X: https://x.com/dinhdat_eth
+
+---
+
+## 🐍 Contribution Activity
+
+![Snake](https://raw.githubusercontent.com/dinhdateth/dinhdateth/output/github-contribution-grid-snake.svg)
 
 ---
 
