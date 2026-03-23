@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello, I'm dinhdat 👋
 
-<!--
-**dinhdateth/dinhdateth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Web3 Node Operator
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 About Me
+
+* Running nodes across multiple ecosystems
+* Focused on airdrops & early projects
+* Exploring Web3 infrastructure
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=dinhdateth\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 📬 Connect
+
+* Telegram: https://t.me/dinhdat
+* X: https://x.com/dinhdat_eth
+
+---
+
+✨ *Exploring Web3 step by step.*
