@@ -22,7 +22,7 @@
 
 ## 📬 Connect
 
-* Telegram: https://t.me/dinhdat_eth
+* Telegram: https://t.me/vdinhdat
 * X: https://x.com/dinhdat
 
 ---
