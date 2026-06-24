@@ -22,8 +22,8 @@
 
 ## 📬 Connect
 
-* Telegram: https://t.me/dinhdat
-* X: https://x.com/dinhdat_eth
+* Telegram: https://t.me/dinhdat_eth
+* X: https://x.com/dinhdat
 
 ---
 
